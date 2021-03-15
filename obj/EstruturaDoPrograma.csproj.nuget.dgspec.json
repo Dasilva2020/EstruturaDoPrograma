@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/emily/EstruturaDoPrograma/EstruturaDoPrograma.csproj": {}
+    "C:\\bkp\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj": {}
   },
   "projects": {
-    "/home/emily/EstruturaDoPrograma/EstruturaDoPrograma.csproj": {
+    "C:\\bkp\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emily/EstruturaDoPrograma/EstruturaDoPrograma.csproj",
+        "projectUniqueName": "C:\\bkp\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
         "projectName": "EstruturaDoPrograma",
-        "projectPath": "/home/emily/EstruturaDoPrograma/EstruturaDoPrograma.csproj",
-        "packagesPath": "/home/emily/.nuget/packages/",
-        "outputPath": "/home/emily/EstruturaDoPrograma/obj/",
+        "projectPath": "C:\\bkp\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+        "packagesPath": "C:\\Users\\dasilva\\.nuget\\packages\\",
+        "outputPath": "C:\\bkp\\EstruturaDoPrograma\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/emily/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dasilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net50"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net50": {
             "projectReferences": {}
           }
         },
@@ -35,24 +37,13 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.113\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
